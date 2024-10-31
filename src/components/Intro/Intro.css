@@ -94,7 +94,7 @@
     } 
     .introPara {
       margin-bottom: 1rem;
-     }
+    }
 }
 
 @media screen and (max-width:432px) {
@@ -119,6 +119,12 @@
         right: -31.5vw;
         margin-top: -6rem;
     } 
+    .introPara {
+      margin-bottom: -0.9rem;
+    }
+    .introContent{
+      margin-top: 9rem;
+    }
 }
 
 @media screen and (max-width:340px) {
